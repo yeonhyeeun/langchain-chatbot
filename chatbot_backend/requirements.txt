@@ -20,6 +20,6 @@ sse_starlette
 google-search-results
 openai
 gptcache
-pip install chardet
+chardet
 google-search-results
 gunicorn
